@@ -41,5 +41,5 @@ Soy Samuel Gutiérrez López, técnico en programación con experiencia en el de
 - *Título*: Técnico en Programación, CECyT 9 "Juan de Dios Bátiz".
 
 ## Contacto
-- *Linkedin*: [Samuel Gutiérrez López"](www.linkedin.com/in/samuel-gutiérrez-lópez-532140332).-
-- *Facebook*: [Samuel Gutiérrez"]([https://drive.google.com/file/d/1G5q6m42oK8xnnSYU_iW0A3BdcKRncnZK/view?usp=sharing](https://www.facebook.com/profile.php?id=100079642094035)).- 
+- *Linkedin*: [Samuel Gutiérrez López](www.linkedin.com/in/samuel-gutiérrez-lópez-532140332).-
+- *Facebook*: [Samuel Gutiérrez](https://www.facebook.com/profile.php?id=100079642094035).- 
