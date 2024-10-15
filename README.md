@@ -38,4 +38,8 @@ Soy Samuel Gutiérrez López, técnico en programación con experiencia en el de
 - *Resultado*: Automatización de encuestas para ayudar a la recopilación de información para [detección de la depresión en textos mediante el uso de transformers](https://www.facebook.com/cicipnoficial/posts/pfbid0HuAACTrbreHEs1P75EtiTwpbzHGVMdmBihd7t2AXgoCyPe4hkvMCHgZg6AZii7Pdl?locale=es_LA), proyecto del Maestro en Ciencias Abdiel Reyes Vera
 
 ## Logros Académicos y Certificaciones
-- *Título*: [Técnico en Programación, CECyT 9 "Juan de Dios Bátiz"](https://drive.google.com/file/d/1G5q6m42oK8xnnSYU_iW0A3BdcKRncnZK/view?usp=sharing).
+- *Título*: Técnico en Programación, CECyT 9 "Juan de Dios Bátiz".
+
+## Contacto
+- *Linkedin*: [Samuel Gutiérrez López"](www.linkedin.com/in/samuel-gutiérrez-lópez-532140332).-
+- *Facebook*: [Samuel Gutiérrez"]([https://drive.google.com/file/d/1G5q6m42oK8xnnSYU_iW0A3BdcKRncnZK/view?usp=sharing](https://www.facebook.com/profile.php?id=100079642094035)).- 
